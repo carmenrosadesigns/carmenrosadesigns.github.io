@@ -1,3 +1,3 @@
-# crd.github.io
+# carmenrosadesigns.github.io
 
 Files for Carmen Rosa Designs Website
